@@ -59,3 +59,4 @@
 6. systemctl restart zabbix-agent
 7. systemctl enable zabbix-agent
 8. sudo nano /etc/zabbix/zabbix_agentd.conf редактировала параметр Server=127.0.0.1/Server=192.168.0.106
+9. systemctl restart zabbix-agent
